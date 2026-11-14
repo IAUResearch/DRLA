@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TL-FT-Pareto-DRLA: Preference-steerable and fault-tolerant deep reinforcement learning for multi-objective microservice placement in Hybrid Fog/Cloud environments"
+authors:
+  - family-names: Izadi
+    given-names: Farnaz
+  - family-names: Khorsand
+    given-names: Reihaneh
+  - family-names: Soltanaghaei
+    given-names: Mohammadreza
+  - family-names: Khaledian
+    given-names: Navid
+version: 1.0.0
+date-released: 2026-11-14
+license: MIT
